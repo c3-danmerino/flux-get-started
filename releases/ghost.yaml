@@ -21,7 +21,7 @@ spec:
       enabled: false
     resources:
       requests:
-        memory: 16Mi
+        memory: 32Mi
         cpu: 10m
     service:
       type: ClusterIP
