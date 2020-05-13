@@ -1,0 +1,1 @@
+{"jobID":"9f8a2519-a225-1668-3b4a-b93399b3c73f","spec":{"type":"policy","cause":{"Message":"","User":"Dan Merino \u003cdan.merino@c3.ai\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
